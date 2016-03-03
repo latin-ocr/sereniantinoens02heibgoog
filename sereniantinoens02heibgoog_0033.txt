@@ -1,0 +1,36 @@
+DE SECTIONE CYLINDRI. 9
+
+8. praeterea haec quoque definitio praemittenda,
+similes ellipses esse, quarum utriusque diametri con·
+iugatae inter se eandem rationem habeant et ad aequales
+angulos inter se secent.
+
+I.
+Si duae rectae inter se tangentes duabus rectis
+inter se tangentibus, quarum utraque utrique est
+
+aequalis, parallelae sunt, rectae terminos'earum con-
+iungentes et ipsae aequales sunt et parallelae.
+
+sint duae rectae inter se tangentes AB, ΒΓ
+duabus rectis inter se tangentibus ΔΕ, ΕΖ parallelae,
+et sit ΑΒ = ΔΕ, ΒΓ = EZ, ducanturque ΑΓ, ΔΖ.
+dicu, rectas A Γ, ΛΖ aequales et parallelas esse.
+
+ducantur BE, ΓΖ, ΑΛ. quoniam AB rectae ΔΕ
+aequalis est et parallela, erit etiam [Eucl. l, 33]
+ΒΕ rectae ΑΔ aequalis et parallela. et quoniam ΒΓ
+rectae ΕΖ aequalis est et parallela,- erit etiam ΒΕ
+rectae ΓΖ aequalis et parallela. quare [Eucl. Ι, 30]
+AA. rectae ΓΖ aequalis est et parallela. ergo etiam
+
+[Eucl. I, 33] ΑΓ, ΛΖ aequales et parallelae3 quod
+erat demonstrandum.
+
+Il.
+
+Si cylindrus plano¹ per axem secatur, sectio par-
+allelogrammum erit.
+
+ 
+

@@ -1,0 +1,35 @@
+⁷ nn suorronu urrinnai. 113
+
+sit circulus Z, axis autem ZB, et per ΓΖ axemque
+planum ducatur in cono efficiens ΒΗΘ triangulum
+per axem positum, et ad ΓΖ perpendicularis ducatur
+ΓΚ in plano circuli Z posita, per ΓΚ autem et
+utramque ΓΔ, ΓΕ plana ducantur conum secontia
+efficiantque per sectionem in superficie coni lineas
+AAM, N ΕΞ, in plano autem trianguli ΒΗΘ rectas
+AF, N Γ; diametri igitur sectionum AAM, ΝΕΞ
+sunt rectae AM, Ν Ξ. iam ad diametros AM, N Ξ
+ordinate ducantur A 0, ΕΠ producanturque ad alteram
+partem superficiei ad P, Σ. quoniam igitur recta ΓΔ
+lineam AA M in puncto A contingit, ordinateque ducta
+est AO, erit AF: ΓΜ = AO: ΟΜ [Apollon. l, 36];
+et eadem de causa erit Nszra⁴=N11:ng;
+itaque propter propositionem praecedentem recta
+puncta 0, Π coniungens producta per uerticem ueniet.
+
+dueatur igitur OHB. et quoniam utraque ΕΣ, ΛΡ -
+
+rectae ΓΚ parallelo est, A P et ΕΣ inter se parallelae
+sunt [Eucl. XI, 9] et in uno plano positae. itaque
+planum per ΒΠΟ et ΕΣ, ΛΡ productum in super· ,
+ficie coni sectionem efficiet triangulum [Apollon. 1,3];
+puncta igitur E, A in superficie coni posita in latero
+sunt trianguli triangulum ΒΗΘ secundum rectam
+ΒΠΟ secantis. eodem autem modo in omnibus
+contingentibus idem euenire demonstratur, etiam in
+rectis in P, Σ contingentibus. ergo omnes rectae a
+Γ superficiem conicam contingentes in latera unius
+trianguli cadunt3 quod erat demonstrandum.
+
+ 
+

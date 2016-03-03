@@ -1,0 +1,41 @@
+nn sncmoua com. 253
+
+LII.
+
+si circulus circulum secat per centrum eius de-
+scriptus, et ab altera eorum sectione rectae ducuntur
+arcum per centrum ductum secantes producunturque
+ad ambitum alterius circuli, recta abscisa inter ambi-
+tum connexum alterius circuli concauumque alterius
+aequalis erit rectae a communi sectione rectae pro-
+
+, ductae ambitusque per centrum ducti ad alteram
+
+sectionem communem circulorum ductae.
+sit circulus ΑΒΓ circum
+centrum A descriptus, et per
+A centrum describatur cir-
+culus aliquis ABF circulum
+ab initio positum in punctis
+Β, Γ secans, producanturque
+rectae per A punctum ΒΔΕ,
+alia autem quaelibet ΒΖΗ,
+et ducantur A Γ, ΖΓ. dioc,
+esse EA == ΔΓ, ZH= ΖΓ.
+ducantur ΕΓ, ΓΗ. quoniam igitur [Eucl. ΙΙΙ, 21]
+L ΒΔΓ = ΒΖΓ, etiam reliquus EA Γ = ΗΖΓ [Eucl.
+Ι, 13]. uerum etiam LAEF= ΖΗΓ [Eucl. ΠΙ, 27],
+quie in eodem arcu consistunt3 quare etiam reliquus
+angulus reliquo aequalis [nu01.1,32], et triangussi
+similes sunt3 quare etiam ΓΖΗ aequiermius est
+
+Ι [Eucl. VI, 4]. ergo ΕΖ = AF, ΗΖ == ΖΓ. et eodem
+
+’ modo demonstrabuntur proposita etiam, si aliae pro·
+ductae erunt rectae.
+
+acatos <coo A> σημείου m. 2 V ex parte euan.; „Ji haec quae
+suntcdneungilarffne non habentur in apographo“ add. m. rec.
+
+ 
+

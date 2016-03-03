@@ -1,0 +1,52 @@
+DE SECTIONE GYLINDRI. 39
+
+et cylindrus secetur, ut diximus, plano sectionem
+efficienti ΕΖΗΘ, ita ut concurrentibus sectione
+ΕΖΗΘ planoque
+
+basis A Γ commu·
+
+nis sectio ΚΛ ad
+
+“ rectam ΓΑΛ sit
+
+perpendicularis, et
+
+a sectione EZH
+
+. recta aliqua duca
+
+tur ZM rectae KA
+
+parallela producta-
+
+que ad alteram par-
+
+tem superficieiter- ·
+
+minetur in Θ. dieo,
+
+rectam ZM in ΕΗ cadere, et esse ZM = ΜΘ. ¹
+
+quoniam enim in sectione ΕΖΗ rectae K Λ
+parallela ducta est ΖΜ, intra parallelogrammum ΓΔ
+cadit [prop. ΧΠ. et quoniam recta ΖΜ posita‘est in
+plano ΕΖΗΘ, et ΕΗ eius parallelogrammique ΓΔ
+communis est sectio, ZM in ΕΗ cadit.
+
+esse autem ZM= ΜΘ, et ipsum per propositionem
+praecedentem manifestum est. ¹
+
+reliquum est, ut demonstremus, rectam ΚΛ ad
+ΕΗΛ perpendicularem esse, si cylindrus rectus sit
+aut ΓΛ ad basim cylindri perpendiculare. quoniam
+enirn planum ΓΛ ad planum basis perpendiculare est,
+et ad ΓΑΛ communem eorum sectionem perpen-
+dicularis est ΚΛ in plano basis posita, etiam ad
+reliquum planum parallelogrammi ΓΔ perpendicularis
+
+est [Eucl. XI def. 4].
+sin ΓΛ ad basim perpendiculare non est, non
+
+ 
+

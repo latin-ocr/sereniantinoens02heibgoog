@@ -1,0 +1,51 @@
+¹nu sncrrous cour. 201
+
+XXXIV.
+
+Si in cono scaleno per axem planis compluribus
+secto in basibus parallelis trianguli aequicrurii ad eam
+partem uersus construuntur, ad quam axis inclinatus
+est, triangrlorum autem aequicruriorum ita effectorum
+aliquis triangulo aequicruric per axem ducto aequalis
+est, recta a uertice ad basim trianguli perpendicularis
+maior erit axe.
+
+sit conus scalenus, cuius uertex sit A, axis autem
+AB ad partes A uersus inclinatus, basis autem cir-
+
+culus circum centrum
+
+B descriptus, trianguli
+
+autem ad circulum per-
+
+pendiculariter per axem
+A ducti basis sit ΓΒ A,
+ducanturque in circulo
+ad ΓΔ perpendiculares
+
+B Z, ΕΗ, et ducatur A E,
+
+supponaturque‚ triangu-
+
+lum aequicrurium per
+All, ΕΗ ductum aequalem esse triangulo per AB,
+ΒΖ, hoc est [prop. XXII] triangulo aequicrurio per
+axem ductc. dico, esse AE> AB.
+
+quoniam enim triangulus aequicrurius per ΑΕ, ΕΗ
+
+Ζ
+
+ductus triangulo per'AB, ΒΖ aequalis est, et [Eucl.
+l‚4l]AE><EH-AB><BZ, erit BZ:EH=EA:AB
+[Eucl.VI, 16]. cst autem ΒΖ > ΗΕ [Eucl. III, 15]; ergo
+etiam EA > ΑΒ.
+
+XXXV.
+
+siin cono scaleno per uerticem planis compluribus
+secto in basibus parallelis trianguli aequicrurii ad
+
+ 
+

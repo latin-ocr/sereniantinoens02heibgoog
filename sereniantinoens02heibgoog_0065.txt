@@ -1,0 +1,43 @@
+nn saumoua caninum. 41
+
+erit ΚΛ ad ΛΕ perpendicularis. si enim fieri potest,
+sit ΚΛ ad ΛΕ perpendicularis. uerum etiam ad ΛΓ
+perpendicularis est3 quare etiam ad planum pereas
+ductum, hoc est ad ΓΔ, perpendicularis erit ΚΛ
+[Eucl. XI, 4]. itaque etiam planum per eam ductum
+basis A ad ΓΛ perpendiculare erit [Eucl. XI, 18];
+quod contra hypothesim est. ergo ΚΛ ad ΛΕ per-
+pendicularis non est.
+
+ex demonstratis igitur manifestum, ΕΗ diametrum
+esse sectionis ΕΖΗΘ [def. 4]3 omnes enim rectas,
+quae ad eam rectae ΚΛ parallelae ducuntur, in binas
+partes aequales secat, sicut rectam ΖΘ.
+
+XIII.
+
+Si duae rectae similiter secantur, erit, ut quadratum
+prImae ad quadratum alterius, ita rectangulum partibus
+primae comprehensum ad rectangulum partibus alterius
+
+’ comprehensum.
+
+rectae enim AB, ΓΛ in punctis E, Z similiter
+
+secentur. dice, esse
+AB²:FA2=AE><EB:FZ><ZA.
+quoniam enim
+
+l l-l AEzEB=PZ:ZA,
+Γ Ζ Δ erit etiam componendo et permu-
+”““““’“““ tando An2rA=na:zA. et
+quoniam AE:EB=FZ:ZA‚ ΑΕ><ΕΒ adFZ><ZA
+duplicatam rationem ¹) habet quam ΕΒ : ΖΔ siue
+
+t1)dNum ΑΕ >< ΕΒ : EB¹ = ΓΖ >< ZA: ZA¹3 tum pcr-
+mu an 0.
+
+cp, ΞΔ Vv. 24. ZA] Δ e corr. p.
+
+ 
+

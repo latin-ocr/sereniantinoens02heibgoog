@@ -1,0 +1,43 @@
+on sacriora coru. 193
+
+ΓΔ parallelas. uerum Η ΓΔ = ΑΓΔ [Eucl. I, 37]
+(nam in eadem basi sunt et in iisdem parallelis) et
+ΗΕΖ == ΑΕΖ [id.]; itaque ΑΓΛ > ΑΕΖ. eodem
+autem modo demonstratur, eum etiam omnibus trian-
+gulis bases rectae ΓΔ parallelas habentibus maiorem
+esse. ergo A ΓΛ maximus est omniurn triangulorum,
+qui bases rectae ΓΛ parallelas habent; quod erat
+demonstrandum.
+
+XXX.
+
+Sin recta ab A ad ΓΔ perpendicularis minor est
+radio, ΑΓΛ maximus non erit triangulorum bases
+rectae ΓΛ parallelas habentium3 demonstratio autem
+figuraque eadem est.
+
+quoniam enim ΗΒ minor est radio, H ΓΛ maximus
+non erit eorum, qui bases ei parallelas habent3 demon· ’
+strauimus enim [prop. ΧΠ, triangulos et maiores eo ct
+minores et aequales construi. iarn si ΗΓΔ < ΗΕΖ
+erit etiam ΑΓΛ < ΑΕΖ, sin ΗΓΔ > ΗΕΖ, etiam
+ΑΓΛ > ΑΕΖ, et aequalis eodem modo.
+
+XXXI.
+
+Si in cono scaleno per uerticem planis secto in
+basibus parallelis trianguli aequicrurii construuntur,
+axis autem coni non minor est radio basia, triangulus
+aequicrurius per axem ductus maximus erit omnium
+aequicruriorum ad earn partem uersus constructorum,
+ad quam axis inclinatus est.
+
+sit conus, ouius axis sit AB, basis autem circulus
+
+19. ἐπιπέδοιςῑ] ἐπιπέδοις spaciosi p. 24. ὁ περί] vop,
+Ἴ suppl. m. rec.
+
+Serenus narianensis, od. Hciberg. 13
+
+ 
+

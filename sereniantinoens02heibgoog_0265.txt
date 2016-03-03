@@ -1,0 +1,42 @@
+on suenone com. 241
+
+minima autem AF [prop. XVl], erit AB>AA>AF.
+uerum AA -l- M = BA -l- AF, quarum AA < ΑΒ;
+quare M > A Γ, itaque etiam Μ’ > w. sint
+Α sa -l- ΓΝ ² -- M² reeta ΓΝ in circulum inserta,
+producaturque N ΞΒ 0, et dueatur N A 3 itaque LBNF
+rectus est [Euol. III, 31]; nam in semicirculo est.
+quoniam igitur ΑΒ2 = BF² -Ι- PA‘l, et
+
+BF2 ε BN² -l- Nr2 [Euol. I, 47],
+erit
+
+ΑΒ2 -·= ΒΝ2 -Ι- ΝΓ2 -l- FA2,
+quorum ΓΝ2 -l- ΓΑ2 = AN* [Euel..1,47]; itaque
+AB² = ΒΝ2 ÷ NA2. quare LBNA reatus est
+[Eu01.1‚48]; AN igitur altitudo est trianguli per
+axem ducti, euius basis est OB Ξ. et quonism
+M²=Ar2÷PN2‚ uerumetiam AN²=AF2÷FN2,
+erit M = ΑΝ, quare etiam AA -Ι- AN== BA -l- AF,
+et reetangulum comprehensum a diametro et
+(AA -Ι- ΑΝ)
+
+reetangirlo comprehenso a diametro et (BA -l- AF)
+aequale est. uerum reetangulum comprehensum a
+diametro et (BA -Ι- AF) duplo maius est triangulo
+maximo minimoque, quorum bases sunt ZH, ΕΔ,
+
+altitudines autem BA, AF [prop. XXII, XXIV3 Eucl.
+I, 41] , reetangulum autem comprehensum a diametro
+et (AA -l- AN) duplo maius est triangulis, quorum
+bases sunt ΘΚ, ΟΞ, altitudines autem AA, AN
+[Euol. I, 41]; itaque trianguli, quorum bases sunt ΘΚ,
+ΟΞ, altitudines autem AA, AN, aequales sunt tn‘an-
+gulo minimo maximoque eorum, qui per axem ducti
+sunt. et datus triangulus est , quiin ΘΚ descriptus
+
+est3 ergo inuentus est triangulus per axem duetus,
+Serenus Antinosnsis, ed. Heibsrg. ¹ 16
+
+ 
+

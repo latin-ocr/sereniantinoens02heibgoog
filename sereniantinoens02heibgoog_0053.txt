@@ -1,0 +1,43 @@
+. DE SECTIONE CYLINDRI. 29
+
+igitur secans aut basim quoque utramque secat aut
+alteram aut neutram. iam primum neutram secet
+efficiatque in superficie cylindri lineam ΓΕΔ. dico,
+lineam ΓΕΑ neque circulum esse neque figuram
+rectilineam.
+
+iam rectilineam figuram eam non esse, adparet.
+nam, si fieri potest, sit figura rectilinea, sumatnrque
+latus aliquod eius ΓΕ. quoniam igitur in superficie
+cylindri duo puncta sumpta sunt Γ, Ε non in eodem
+latere cylindri posita (latus enim talem lineam in
+duobus punctis non secat), recta puncta Γ, Ε con-
+iungens in superficie cylindri est3 quod demonstrauimus
+fieri non posse [prop. ἮΙΙ]Ι itaque linea ΓΕ recta
+non est3 ergo figura ΓΕΔ rectilinea non est.
+
+iam demonstrandum, ne circulum quidem eam
+esse. ,
+
+quoniam enim planum sectionis ΓΕΔ plano cir-
+culi A parallelum non est, producta plana inter se
+
+secabunt. secent, sitque communis eorum sectio ZH,
+
+ct per A centrum ad ZH perpendicularis ducatur
+oAH, per ΘΑ autem axemque planum dueatur
+, sectionem efficiens in cylindro parallelogrammum ΘΚ ‚
+in ΓΕΔ autem sectione 'rectam ΓΛ, et recta ΓΔ in
+A in duas partes aequales secta rectae ZH parallelae
+ducantur pc‘r A recta EAM, per A autem ΝΑΞς
+
+itaque ME, N Ξ inter se parallelae sunt [Eucl. XI, 9].
+per EM igitur planum basi cylindri parallelum ducatur
+
+in cylindro sectionem efficiens OEHM3 itaque sectio
+ΟΕΠ circulus est, cuius diametrus est ΟΠ [prop. V]
+in A in duas partes aequales secta. quoniam enim
+in triangulis similibus ΛΟΓ, ΛΠΔ est ΓΛ = AA,
+
+ 
+

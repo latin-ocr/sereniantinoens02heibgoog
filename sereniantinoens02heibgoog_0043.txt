@@ -1,0 +1,69 @@
+ua suonoua OYLINDRI. 19
+
+ducantur in circulo A diametri EZ, ΗΘ, et per
+
+utramque E Z, H Θ axemque plana ducantur cylindrum
+
+secantia3 sectiones igitur efficient parallelogramma
+
+[prop. ΙΙ] sit ΓΛ communis sectio
+
+Δ parallelogrammi ΕΚ planique ΓΞΛ,
+
+N Ξ autem parallelogrammi HA
+
+planique ΓΔΞ sectio communis.
+
+quoniam igitur planum ΓΞΛ cir-
+
+culo A parallelum est secaturque
+
+plano ΕΚ, recta ΓΛ rectae ΕΖ
+
+parallela est [Eucl. XI, 16]. eadem
+
+de causa autem etiam N Ξ rectae
+
+ΗΘ parallela est. quoniam igitur
+
+BA utrique ΓΕ, Δ Ζ parallela
+
+est, et AE= ΑΖ, erit etiam
+
+ΓΜ = MA. similiter quoniam HA = A Θ, erit
+
+etiam MN == Μ Ξ. et quoniam A Ε -- ΑΗ, erit etiam
+
+MF= MN; itaque MP, MA, ΜΝ, ΜΞ omnes inter
+
+se aequales. similiter autem etiam, si aliae ducuntur,
+
+omnes rectae, quae ab M ad lineam ΓΞΔ adcidunt,
+
+aequales inuenientur. ergo sectio ΓΞΔ circulus est
+
+[Eucl. Ι def. 15].
+
+eam autem etiam centrum habere in recta A B ,
+
+adparet3 nam punctum M, quod in tribus planis po-
+
+situm est, in AB communi parallelogrammorum sectione
+cst, hoc est iu axe.
+
+VI
+
+si cylindrus obliquus plano per axem secatur ad
+basim perpendiculari et simul alio plano secatur,
+
+ψ
+
+-—-—--
+
+ie. raa] Ν aad. m. 1 p. γραμμήν] om. c. ⁸ 19. aazia]
+
+aaa} v. rra] corr. ex raa m. 1 e, rear p.
+2*
+
+ 
+

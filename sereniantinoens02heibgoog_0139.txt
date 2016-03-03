@@ -1,0 +1,40 @@
+nn snonoun OYLINDRI. 115
+
+XXXIII.
+
+, Iam uero hoc demonstrato sit tiiangulus ΑΒΓ
+basique ΒΓ parallelae ΛΕ, ΖΗ, sumaturque punctum
+aliquod Θ in plano trianguli non positum, et ductae
+
+ΘΑ, ΘΖ, ΘΗ, ΘΕ productae euin plano aliquo
+planoABFparallelo
+in punctis K, A,
+M,Nconcurrant;pla·
+
+num igItur per rec-
+tas EA, ΚΘ ductum
+etiam planum
+ΚΛΜΝ secabit ef-
+ficietque in eo com-
+munem sectionem
+rectam ΚΝ rectae
+EA parallelum [Eucl.
+XI, 16]. similiter au-
+tem etiamplanum per
+ΖΗ, ΛΘ productum
+efficiet AM rectae
+ZH parallelum. quoniam igitur planum ΚΘΛ a planis
+parallelis ΑΒΓ, ΚΛΜΝ secatur, communes eorum
+sectiones KA, ΑΖ inter se parallelae sunt [Eucl. XI, 16].
+eadem autem de eausa etiam NM, ΗΕ parallelae
+sunt. productae igitur KA, ΜΝ in Ξ concurrent.
+quoniam igItur duae rectae K Ξ, ΞΝ duabus AA, ΑΕ
+parallelae sunt, erit [ΕΞ A [Eucl. XI, 10]. rursus
+quoniam duae rectae ΞΚ, ΚΝ duabus ΑΛ, ΛΕ
+parallelae sunt, erit LEKN = ΑΔΕ [Eucl. XI, 10].
+
+ergo trianguli ΞΚΝ, ΑΒΓ inter se similes sunt.
+g*
+
+ 
+

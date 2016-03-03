@@ -1,0 +1,44 @@
+DE SECTIONE GYLINDRI. 53
+
+sit sectio cylindri, cuius diametrus sit AB, altera
+
+autem diametrus ΓΛ, et fiat ΓΛ : AH = A B ε ΓΔ ‚
+ponaturque AH ad ΑΒ
+perpendicularis, et duca-
+tur· BH, ad AB autem
+.· ordinate ducatur ΕΖ et
+rectae ΑΗ parallelo ΖΘ,
+rectae A Z autem ΘΚ.
+
+dico, esse 132² = A Θ.
+quoniam ost [Eucl. V
+
+del. 9]
+
+ΑΒ2 : ΓΔ2 = AB : AH= ΒΖεΖΘ [Eucl. VI, 4]‚
+uemm [prop. XVI] ΑΒξ : ΓΛἵ == ΒΖ >< ΖΑ : EZ² et
+132:zo=Bz><ZA2oz><zA=Bz><zA2Ao‚
+erit Ez²= ΑΘ, quod tertiae proportionali AH ad-
+plicatum est latitudinem habens A Z deficiens rectangulo
+HK >< ΚΘ simili rectangulo HA >< AB.
+
+adpelletur autem AB lalus transuersum figurae,
+ΑΗ uero latus rectum figurae.
+
+Quae oum ita sint, manifestum est, ΑΒΓ
+cylindri sectionem ellipsim esse3 nam quaecunque ‘
+hic de sectione ualere demonstrauimus, omnia etiam
+in cono de ellipsi eodem modo uolebant, ut in Conieis
+demonstratur prop. XV [Apollon. I, 15], si quis uerum
+propositionis sensum intellegere potest, et nos in
+commentariis ad ea editis geometrice ostendimus
+
+Vop‚oorr.Comm. 14. πρὸς ΖΘ-ΒΖ, ΖΑ] om. p. de
+ΞΘ Vc, corr. Oonun. 18. md τῶν ΘΚ, ΚΗ p. ΗΑΒ
+
+ΑΗΒ Vc, τῶν ΒΑ,ΑΗ p, corr. omm. 19. AB] AHp.
+20. τοῦ εἴδους πλευρά] orn. p. 21. ιζ’ mg, m. rec. V.
+ἐστιν] ἐστι c. 27. ὑπομνήμασι] ὑπομνήμασιν V.
+
+ 
+

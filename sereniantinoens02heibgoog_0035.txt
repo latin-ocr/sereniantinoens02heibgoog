@@ -1,0 +1,43 @@
+DE SEOTIONE CYLINDRI. 11
+
+sit cylindrus, cuius bases sint circuli circum
+A, Β centra descripti, axis autem recta ΑΒ, et per
+AB planum ducatur
+cylindrum secans3 ef·
+ficiet igitur in circulis
+ν-Ιὲ rectas ΓΛ, ΕΖ, quae
+A Ζ diametri sunt, in super-
+ficie autem cylindri
+lineas ΕΗΓ, ΖΛ. dico, utramque lineam ΕΗ Γ, Δ Ζ
+rectam esse.
+
+nam si fieri potest, ne sint rectae, ducaturque
+recta ΕΘΓ. quoniam igitur linea ΕΗΓ et recta ΕΘΓ
+
+” in plano ΕΛ positae suntin punctis E, Γ concurrentes,
+
+et linea ΕΗΓ in superficie cylindri posita est, recta
+ΕΘΓ in superficie cylindri posita non est. quoniam
+igitur circuli A, Β et aequales et paralleli sunt se-
+canturque a plano EA, communes eorum sectiones
+
+parallelae sunt[Eucl.Xl‚16]. uerum etiam aequales
+sunt3 sunt enim aequalium circulorum diametri. ita-
+que si manentibus punctis A, Β diametros A Γ, ΒΕ
+finxerimus rectam ΕΘΓ per circulos A, Β circumagentes
+et rursus restitutas² reeta ΕΘΓ superficiem cylindri
+
+describet [def. 1]‚ et punctum Θ in superficie erit. at
+extra positum erat; quod fieri non potest. itaque
+ΕΗΓ recta est. similiter autem ctiam ZA. et
+rectas EZ, ΓΔ aequales et parallelas iungunt. ergo
+EA parallelogrammum est [Euol. I, 33]; quod erat
+demonstrandum.
+
+ἐπιζευγνυούσης v. 24. EZ, ΓΔ ΓΔ, ΕΖ p. ΕΔ] ΓΖ p.
+ΞΗωῶΨηῃ ΜΔΜΜἎΜᾼ Q
+
+ἑξῆς τὸ σχῆμα v (fig. in mg. est).
+
+ 
+
